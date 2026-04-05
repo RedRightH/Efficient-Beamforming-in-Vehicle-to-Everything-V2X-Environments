@@ -142,17 +142,7 @@ The temporal models show slower inference in current evaluation due to data load
 
 With these optimizations, temporal models can achieve ~19ms inference (52.6 FPS) as shown in synthetic benchmarks.
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@misc{beam_prediction_2026,
-  title={Multi-Modal Temporal Beam Prediction with Angular Loss},
-  author={Your Name},
-  year={2026}
-}
-```
 
 ## License
 
