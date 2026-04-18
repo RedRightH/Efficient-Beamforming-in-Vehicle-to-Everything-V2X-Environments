@@ -16,9 +16,9 @@ See [FINAL_MODEL_COMPARISON.md](FINAL_MODEL_COMPARISON.md) for detailed results 
 
 | Model | Top-1 Accuracy | Top-5 Accuracy | Inference Time | FPS |
 |-------|----------------|----------------|----------------|-----|
-| Baseline BeamTransFuser | 41.05% | 83.34% | 22.46 ms | 44.5 |
-| Temporal CE Loss | 41.84% | 83.57% | 63.71 ms | 15.7 |
-| **Temporal Angular Loss** | **42.96%** | **84.32%** | 73.98 ms | 13.5 |
+| Baseline BeamTransFuser | 41.05% | 83.34% | 18.08 ms | 55.3 |
+| Temporal CE Loss | 41.84% | 83.57% | 18.99 ms | 52.6 |
+| **Temporal Angular Loss** | **42.96%** | **84.32%** | 18.99 ms | 52.6 |
 
 **Best Model**: Temporal Angular Loss achieves highest accuracy with potential for real-time performance through data pipeline optimizations.
 
