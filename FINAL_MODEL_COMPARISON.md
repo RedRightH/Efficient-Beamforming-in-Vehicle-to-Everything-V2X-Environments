@@ -4,9 +4,9 @@
 
 | Model | Checkpoint | Top-1 | Top-3 | Top-5 | Top-10 | Inference (ms) | FPS |
 |-------|-----------|-------|-------|-------|--------|----------------|-----|
-| **Baseline BeamTransFuser** | retrained_best_beam_model.pth | 41.05% | 74.83% | 83.34% | 89.07% | 22.46 | 44.5 |
-| **Temporal CE Loss** | best_temporal_classifier_v1.pth | 41.84% | 73.88% | 83.57% | 89.00% | 63.71 | 15.7 |
-| **Temporal Angular Loss** | best_temporal_classifier_v1_angular.pth | **42.96%** | **75.14%** | **84.32%** | 88.81% | 73.98 | 13.5 |
+| **Baseline BeamTransFuser** | retrained_best_beam_model.pth | 41.05% | 74.83% | 83.34% | 89.07% | 18.08 | 55.3 |
+| **Temporal CE Loss** | best_temporal_classifier_v1.pth | 41.84% | 73.88% | 83.57% | 89.00% | 18.99 | 52.6 |
+| **Temporal Angular Loss** | best_temporal_classifier_v1_angular.pth | **42.96%** | **75.14%** | **84.32%** | 88.81% | 18.99 | 52.6 |
 
 ## Key Findings
 
